@@ -1,0 +1,28 @@
+h1 {
+   font-family: Tahoma;
+   color : black;
+   text-align: center;
+   text-transform: uppercase;
+ }
+h2 {
+   font-family: Tahoma;
+   color : black;
+   text-align: center;
+ 
+ }
+h3 {
+   font-family: Tahoma;
+   color : rgb(222, 61, 88);
+   text-align: center;
+   
+ }
+
+h4 {
+   text-align: center;
+ }
+
+body {
+   font-family: Courier New;
+   background-color : #1f0f67;
+   color : #053545
+ }
